@@ -1,0 +1,21 @@
+Files
+price price.xlsx
+avto avto.xlsx
+contacts contacts.xlsx
+shops shops.xlsx
+chickens chicken.xlsx
+
+Admins
+321
+123
+
+Emails
+XXX@mail.ru
+XXX@yandex.ru
+
+TimeOut
+360
+
+
+
+
