@@ -1,0 +1,27 @@
+Files
+price price.xlsx
+avto avto.xlsx
+contacts contacts.xlsx
+shops shops.xlsx
+chickens chicken.xlsx
+
+Admins
+1151160886
+123
+
+Emails
+tvoreven@mail.ru
+ch4bibi@yandex.ru
+
+Claims
+server yandex.ru
+from ch4bibi@yandex.ru
+login ch4bibi@yandex.ru
+password qpjcdyibwicdcuoe
+
+TimeOut
+360s
+
+
+
+
