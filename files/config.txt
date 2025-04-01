@@ -6,12 +6,12 @@ shops shops.xlsx
 chickens chicken.xlsx
 
 Admins
-1151160886
+321
 123
 
 Emails
-tvoreven@mail.ru
-ch4bibi@yandex.ru
+XXX@mail.ru
+XXX@yandex.ru
 
 Claims
 server yandex.ru
